@@ -1,4 +1,4 @@
-## Hi I'm Rishabh 
+## Hi, I'm Rishabh 
 
 ❤️ love solving problems using ML.
 
