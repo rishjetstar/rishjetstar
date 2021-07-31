@@ -1,7 +1,6 @@
-## Hi I'm Rishabh Gupta
+## Hi I'm Rishabh 
 
-I help business to make data driven decisions.
-
+❤️ love solving problems using ML.
 
 <!---
 rishjetstar/rishjetstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
